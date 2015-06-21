@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Tboats' Github</h1>
+<p>Hosted through Github Pages</p>
+</body>
+</html>
